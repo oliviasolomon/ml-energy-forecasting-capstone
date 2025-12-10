@@ -1,0 +1,12 @@
+```text
+numpy
+pandas
+scikit-learn
+lightgbm
+matplotlib
+joblib
+openpyxl
+python-dateutil
+holidays
+jupyter
+ipykernel
