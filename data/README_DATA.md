@@ -22,3 +22,5 @@ Required sheets and columns:
 - `windSpeed`
 
 This file is included in the repository, but this description is present for reproduciblity.
+
+If the 'ml_capstone_data.xlsx' file is used, then the data_preprocessing.py is not needed before analysis.
