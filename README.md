@@ -25,7 +25,7 @@ The model uses weather, calendar features, holidays, and building metadata
 ├── README.md
 ├── requirements.txt
 ├── data
-│   ├── ml_capstone_data.xlsx      # NOT in repo – user provides
+│   ├── ml_capstone_data.xlsx      
 │   └── README_DATA.md
 ├── src
 │   ├── data_preprocessing.py
