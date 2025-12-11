@@ -22,11 +22,11 @@ The model uses weather, calendar features, holidays, and building metadata
 
 ## 🔧 Quick Start
 
-### 1. Create and activate a Python environment (Python 3.10+ recommended)
+### 1. Create and activate a Python environment (preferably 3.10+)
 
 ```bash
 python -m venv .venv
-source .venv/bin/activate        # Windows: .venv\Scripts\activate
+source .venv/bin/activate        
 pip install -r requirements.txt
 ```
 ### 2. Add the dataset
