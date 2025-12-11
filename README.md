@@ -65,7 +65,7 @@ python -m src.train_and_predict
 ```
 This will create:
 ```bash
-models/lgbm_y_long.txt
+models/lgbm_y_log.txt
 models/lgbm_y_log_per_sqft.txt
 ```
 Which will be used by:
